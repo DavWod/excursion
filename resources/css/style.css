@@ -1,17 +1,41 @@
 body {
     background-color: black;
+    text-align: center;
+    align-items: center;
+    font-family: Verdana, sans-serif;
+    color: white;
+    display: block;
+    margin: 8px;
 }
 
 h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
     font-weight: normal;
     font-size: 50px;
-    color: white;
-    text-align: center;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
 }
 
 a {
     color: aquamarine;
     font-size: 16px;
-    text-align: center;
 }
+
+footer {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
+
