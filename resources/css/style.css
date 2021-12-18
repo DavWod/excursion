@@ -1,11 +1,8 @@
 body {
     background-color: black;
     text-align: center;
-    align-items: center;
     font-family: Verdana, sans-serif;
     color: white;
-    display: block;
-    margin: 8px;
 }
 
 h1 {
